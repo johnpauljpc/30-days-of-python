@@ -1,0 +1,1 @@
+uvicorn serverFastAPI:app --port 8888 --reload
